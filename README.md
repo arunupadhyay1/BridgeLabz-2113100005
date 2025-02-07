@@ -143,4 +143,17 @@ Design a Company with Departments (Composition) to show hierarchical structure.
 Develop a School with Students and Courses (Association/Aggregation). 
 Simulate a Hospital with Doctors and Patients (Association). 
 Object Diagrams capture class instances and their relationships
- 
+
+ #05-02-2025
+
+Read and Understood the following topics from the notes provided  
+Inheritance
+Single Level Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Key Features of Inheritance
+Method Overriding
+Constructor Inheritance in Java
+Polymorphism and Inheritance
+Access Modifiers and Inheritance
+Then,I have done assignment of Inheritence.
