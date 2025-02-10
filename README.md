@@ -143,4 +143,12 @@ Design a Company with Departments (Composition) to show hierarchical structure.
 Develop a School with Students and Courses (Association/Aggregation). 
 Simulate a Hospital with Doctors and Patients (Association). 
 Object Diagrams capture class instances and their relationships
- 
+
+#08-02-2025
+
+Read about the concept of 
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+  Solved the given eight problems on Encapsulation, Polymorphism, Interface and Abstract Class and submitted the assignment on 10-02-2025.
