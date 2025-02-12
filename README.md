@@ -144,3 +144,34 @@ Develop a School with Students and Courses (Association/Aggregation).
 Simulate a Hospital with Doctors and Patients (Association). 
 Object Diagrams capture class instances and their relationships
  
+#06-06-2025
+Read about-
+Class Diagram
+Object Diagrams
+Sequence Diagrams
+classes vs object in java
+Submitted the assignment on Object Oriented Design Principles on 06-02-2025.
+
+#07-02-2025
+
+Read about following topics-
+Inheritance
+Single Level Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Key Features of Inheritance
+Method Overriding
+Constructor Inheritance in Java
+Polymorphism and Inheritance
+Access Modifiers and Inheritance 
+And submitted the assignment of Submission of Inheritance on 07-02-2025.
+
+#10-02-2025
+Read about Encapsulation, Polymorphism ,Interface and Abstract Classes.
+Submitted the assignment of Encapsulation, Polymorphism, Interface and Abstract Class on 10-02-2025.
+
+#12-02-2025
+Covered following topics 
+Introduction of Data Structure , Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List ,Double Linked List and Circular Linked List.
+Submitted the assignment on Data Structures(Linked List) Single Linked List, Double Linked List and Circular Linked List on 12-02-2025.
+  
