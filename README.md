@@ -174,4 +174,7 @@ Submitted the assignment of Encapsulation, Polymorphism, Interface and Abstract 
 Covered following topics 
 Introduction of Data Structure , Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List ,Double Linked List and Circular Linked List.
 Submitted the assignment on Data Structures(Linked List) Single Linked List, Double Linked List and Circular Linked List on 12-02-2025.
-  
+
+#13-02-2025
+Read the given topics Stack, Queue, HashMap and Hashing Function.
+Submitted the assignment of Stacks, Queues, Hash Maps & Hash Functions on 13-02-2025.
