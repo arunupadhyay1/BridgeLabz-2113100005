@@ -175,3 +175,6 @@ Covered following topics
 Introduction of Data Structure , Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List ,Double Linked List and Circular Linked List.
 Submitted the assignment on Data Structures(Linked List) Single Linked List, Double Linked List and Circular Linked List on 12-02-2025.
   
+#13-02-2025
+Read about sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort, Selection Sort,	Heap Sort,	Counting Sort, Radix Sort, Bucket Sort, and Quick Sort.
+Submitted the assignment of Sorting algorithms on 14-02-2025.
