@@ -182,3 +182,13 @@ Submitted the assignment of Sorting algorithms on 14-02-2025.
 #16-02-2025
 Read the concept of StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, and Binary Search.
 Submitted the assignment of Linear and Binary search on 16-02-2025.
+
+#17-02-2025
+Read the following topics-
+1. What is Runtime Analysis?
+2. Understanding Big-O Notation
+3. Time Complexity Analysis
+4. Space Complexity Analysis
+5. Best, Worst, and Average Case Complexities
+6. Practical Guidelines for Optimizing Java Code
+Submitted the assignment of General Algorithm Best Practices, Time and space Complexity Optimization on 17-02-2025.
