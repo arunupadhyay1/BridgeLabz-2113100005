@@ -192,3 +192,13 @@ Read the following topics-
 5. Best, Worst, and Average Case Complexities
 6. Practical Guidelines for Optimizing Java Code
 Submitted the assignment of General Algorithm Best Practices, Time and space Complexity Optimization on 17-02-2025.
+
+#18-02-2025
+Read following topics-
+Introduction to Generics
+Type Parameters
+Generic Classes
+Generic Methods
+Bounded Type Parameters
+Wildcards
+and submitted assignment of java generics on 18-02-2025.
