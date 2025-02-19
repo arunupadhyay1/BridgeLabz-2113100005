@@ -192,3 +192,16 @@ Read the following topics-
 5. Best, Worst, and Average Case Complexities
 6. Practical Guidelines for Optimizing Java Code
 Submitted the assignment of General Algorithm Best Practices, Time and space Complexity Optimization on 17-02-2025.
+
+#18-02-2025
+Read following topics-
+Overview of Collections Framework
+What is the Collections Framework?
+Hierarchy of Collections Framework
+List Interface and Implementing Classes
+Set Interface and Implementing Classes
+Queue and Deque Interfaces
+Map Interface and Its Implementations
+Comparison of Different Implementations
+Real-World Use Cases and Best Practices
+and submitted the assignment of collections on 19-02-2025.
