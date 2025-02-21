@@ -1,3 +1,4 @@
+
 #19-01-25:
 
 Basic Java Problems:
@@ -205,3 +206,32 @@ Map Interface and Its Implementations
 Comparison of Different Implementations
 Real-World Use Cases and Best Practices
 and submitted the assignment of collections on 19-02-2025.
+
+#21-02-2025
+Read given topics related to Java Streams-
+Java I/O Streams
+Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+Key Considerations
+Best Practices
+and submitted assignment of java streams on 21-02-2025.
+Read following topics related to Java Exception Handling-
+Exceptions 
+Types of Exceptions
+Checked Exceptions,
+Unchecked Exceptions
+Custom Exceptions
+Handling Exceptions 
+try-catch blocks
+try-catch-finally blocks
+try-with-resources statement
+throws clause
+throw statement
+Creating Custom Exceptions
+Extending Exception Class
+Defining Constructors
+and submitted assignment of Exception Handling on 21-02-2025.
