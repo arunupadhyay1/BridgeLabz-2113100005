@@ -205,3 +205,26 @@ Map Interface and Its Implementations
 Comparison of Different Implementations
 Real-World Use Cases and Best Practices
 and submitted the assignment of collections on 19-02-2025.
+
+#22-02-2025
+Read following topics-
+Regex
+MetaCharacter
+Quantifier
+Common Patterns:
+ Email Validation
+ Password Strength
+ Phone Number Format 
+Java Regex API 
+Pattern
+Matcher
+Methods:
+find()
+matches()
+replaceAll()
+Introduction to JUnit Framework
+JUnit Annotations
+Writing Test Cases
+Structure of a Test Class
+Assertions
+and submitted assignment of Regex and JUnit.
