@@ -228,3 +228,17 @@ Writing Test Cases
 Structure of a Test Class
 Assertions
 and submitted assignment of Regex and JUnit.
+
+#24-02-2025
+Read following concept-
+*Introduction to Annotations
+Common Built-in Annotations
+Creating Custom Annotations
+Advanced Custom Annotations
+Real-World Use Cases
+*Annotation Processing Tools
+Reflection
+Understanding of Reflection
+Using Reflection in Java
+Annotations and Reflection
+submitted assignment of Annotations and Reflection on 24-02-2025.
