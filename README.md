@@ -242,3 +242,12 @@ Understanding of Reflection
 Using Reflection in Java
 Annotations and Reflection
 submitted assignment of Annotations and Reflection on 24-02-2025.
+
+#25-02-2025
+Read following topics-
+Introduction to CSV
+Reading CSV Files
+Writing CSV Files
+Parsing CSV Data
+Data Validation
+and submitted assignment of CSV data handling on 25-02-2025.
