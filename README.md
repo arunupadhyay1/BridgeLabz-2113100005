@@ -251,3 +251,12 @@ Writing CSV Files
 Parsing CSV Data
 Data Validation
 and submitted assignment of CSV data handling on 25-02-2025.
+
+#26-02-2025
+Read following topics-
+Introduction to JSON
+Reading JSON Data
+Writing JSON Data
+Parsing JSON Data
+JSON Schema Validation
+and submitted the assignment of JSON data on 26-02-2025.
